@@ -18,4 +18,4 @@ axios.get(urlPai)
 
     console.log(dados);
 
-})
+});
