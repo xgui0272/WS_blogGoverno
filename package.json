@@ -1,0 +1,20 @@
+{
+  "name": "ws_bloggoverno",
+  "version": "1.0.0",
+  "description": "web scraping do blog do governo federal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgui0272/WS_blogGoverno.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xgui0272/WS_blogGoverno/issues"
+  },
+  "homepage": "https://github.com/xgui0272/WS_blogGoverno#readme"
+}
