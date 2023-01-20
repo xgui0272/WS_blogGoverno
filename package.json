@@ -19,6 +19,8 @@
   "homepage": "https://github.com/xgui0272/WS_blogGoverno#readme",
   "dependencies": {
     "axios": "^1.2.3",
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.0.1"
   }
 }
